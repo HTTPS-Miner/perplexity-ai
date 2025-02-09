@@ -4,7 +4,7 @@
 
 ## Genel Bakış
 
-Bu proje, **selenium** ve **Firefox** kullanarak [perplexity-ai](https://perplexity.ai/) ile etkileşimleri otomatikleştirir. Script, bir dosyadan metin girişi gönderip, ChatGPT'den yanıt almanızı ve bunu çıktı dosyasına kaydetmenizi sağlar — tüm bunlar, tarayıcıyı manuel olarak açmanıza gerek kalmadan gerçekleştirilir.
+Bu proje, **selenium** ve **Firefox** kullanarak [perplexity.ai](https://perplexity.ai/) ile etkileşimleri otomatikleştirir. Script, bir dosyadan metin girişi gönderip, ChatGPT'den yanıt almanızı ve bunu çıktı dosyasına kaydetmenizi sağlar — tüm bunlar, tarayıcıyı manuel olarak açmanıza gerek kalmadan gerçekleştirilir.
 
 https://github.com/user-attachments/assets/98b8be66-8835-4a26-a008-10367a0e8ec1
 

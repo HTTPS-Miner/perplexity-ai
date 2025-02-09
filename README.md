@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project automates interactions with perplexity-ai on the [ChatGPT.com](https://perplexity.ai/) website using **selenium** and **Firefox**. The script allows you to send text input from a file, receive the response from ChatGPT, and save it to an output file — all without manually opening a browser.
+This project automates interactions with perplexity-ai on the [perplexity.ai](https://perplexity.ai/) website using **selenium** and **Firefox**. The script allows you to send text input from a file, receive the response from ChatGPT, and save it to an output file — all without manually opening a browser.
 
 https://github.com/user-attachments/assets/98b8be66-8835-4a26-a008-10367a0e8ec1
 
