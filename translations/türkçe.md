@@ -60,3 +60,19 @@ Bu aracın temel amacı, Perplexity.ai ile etkileşimleri hızlandırmak ve otom
    ```
 
 Tarayıcı ekranının açılmasını istemiyorsanız, işlemi tarayıcıyı açmadan gerçekleştirmek için `main.py` dosyasının 13. satırındaki yorumu kaldırabilirsiniz.
+
+## Windows İçin
+
+```
+py -m venv myenv
+myenv\Scripts\activate.bat
+```
+
+Firefox uygulama yolunu güncelle:
+
+main.py dosyasının 11 satırında:
+Example:
+
+```
+options.binary_location = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+```

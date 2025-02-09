@@ -60,3 +60,19 @@ The primary goal of this tool is to streamline and automate interactions with pe
    ```
 
 If you want to avoid opening the browser window, simply uncomment line 13 in main.py to perform the operation without opening the browser.
+
+## For Windows
+
+```
+py -m venv myenv
+myenv\Scripts\activate.bat
+```
+
+Update Firefox path:
+
+Open main.py and modify line 11 to set the correct path for Firefox:
+Example:
+
+```
+options.binary_location = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+```
