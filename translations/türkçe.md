@@ -71,7 +71,8 @@ myenv\Scripts\activate.bat
 Firefox uygulama yolunu güncelle:
 
 main.py dosyasının 11 satırında:
-Example:
+
+Örnek:
 
 ```
 options.binary_location = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
